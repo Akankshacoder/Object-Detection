@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: whitesmoke;
+}
+a1, a2, a3, a4{
+    border-radius: 50%;
+    background-color: white;
+    color: whitesmoke;
+    font-size: 10px;
+}
+#back{
+    float: right;
+}
+.heading{
+    width: 100%;
+}
